@@ -8,4 +8,4 @@ Check `./docs`
 
 ## Demo Video
 
-Check `./Videos`
+Check `./videos`
